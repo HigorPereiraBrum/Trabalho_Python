@@ -22,4 +22,3 @@ Abra o terminal de comando
 Digite:
 cd Desktop
 python3 Almoxarifado.py
-
